@@ -1475,6 +1475,7 @@ section {
 
 #score {
   min-height: 350px;
+  background-color: #fefbf6;
 }
 
 .logo > h1 > a {
